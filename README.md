@@ -1,4 +1,4 @@
-# CS-NMT
+# LID-Tools
 
 # Translation 
 MBart pretrained models by Huggingface:
@@ -11,7 +11,7 @@ https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt
 Many-to-Many: This model can translate directly between any pair of 50 languages.
 https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt
 
-
+Evaluations done with LINCE benchmark
 
 # Language Identification (LID)
 
@@ -19,3 +19,9 @@ https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt
 
 - *Fast-text*
 https://fasttext.cc/docs/en/language-identification.html
+
+- *Lang-ID*
+
+- *CLD3*
+
+- *mBart*
